@@ -1,0 +1,6 @@
+{
+  "name": "Alnaura yang Cantik",
+  "description": "Game kuis dan tanya jawab spesial khusus untuk Alnaura yang cantik dan pintar, dengan suara ceria, stiker hadiah, petualangan level, dan kuis kustom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
